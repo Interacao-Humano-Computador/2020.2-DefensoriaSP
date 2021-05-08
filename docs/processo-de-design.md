@@ -7,6 +7,10 @@
 
 <div align="center">
   <img src="../../assets/planejamento/processo-design/mayhew.png" />
+  <figcaption align='center'>
+        <b>Figura 1: Diagrama de Processo de Mayhew. </b>
+        <br> 
+    </figcaption>
 </div>
 
 <p align='justify'> &emsp; É um ciclo criado para a engenharia de usabilidade. Esse processo traz a organização de diversas atividades da área de IHC.</p>
