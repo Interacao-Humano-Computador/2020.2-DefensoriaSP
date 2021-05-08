@@ -6,7 +6,7 @@
 ## 2. Ciclo de Mayhew
 
 <div align="center">
-  <img src="../../assets/planejamento/processo-design/mayhew.png" />
+  <img src="../assets/planejamento/processo-design/mayhew.png" />
   <figcaption align='center'>
         <b>Figura 1: Diagrama de Processo de Mayhew. </b>
         <br> 
